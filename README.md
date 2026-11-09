@@ -164,3 +164,14 @@ You can consult the [PWA documentation](https://docs.elk.zone/pwa) to learn more
 ## 📄 License
 
 [MIT](./LICENSE) &copy; 2022-PRESENT Elk contributors
+
+
+## Contact via RetroShare
+
+For direct contact and project coordination, you can reach us through RetroShare. Add this public RetroShare certificate to your contacts:
+
+```text
+ABCDCA4iYSA/R3eLKGve+Xh/AQpCZWxsaW5nY2F0AxQpROvRHO0431TmXqzV1lrCGXOziZMGjB+owBNNBAONzFA=
+```
+
+Please share your own certificate in return so we can establish a mutual connection.
